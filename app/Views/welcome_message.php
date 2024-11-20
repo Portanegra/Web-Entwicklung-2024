@@ -156,7 +156,7 @@
             stroke-width: 32px;
         }
         footer {
-            background-color: rgba(221, 72, 20, .8);
+            background-color: rgba(87, 166, 50, .8);
             text-align: center;
         }
         footer .environment {
