@@ -14,7 +14,7 @@
             transition: background-color 300ms ease, color 300ms ease;
         }
         *:focus {
-            background-color: rgba(221, 72, 20, .2);
+            background-color: rgba(221, 172, 20, .2);
             outline: none;
         }
         html, body {
@@ -156,7 +156,7 @@
             stroke-width: 32px;
         }
         footer {
-            background-color: rgba(221, 72, 20, .8);
+            background-color: rgba(87, 166, 50, .8);
             text-align: center;
         }
         footer .environment {
