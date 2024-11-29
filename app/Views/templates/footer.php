@@ -1,7 +1,8 @@
-<footer class="footer mt-auto py-3 bg-footer">
-    <div class="container-fluid">
-        <span class="text-white">Place sticky footer content here.</span>
+<footer class="footer mt-auto py-3 bg-footer text-white">
+    <div class="container">
+        <span class="text-white">© Web-Entwicklung 2024</span>
     </div>
 </footer>
+
 </body>
 </html>

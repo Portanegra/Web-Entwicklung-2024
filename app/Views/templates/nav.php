@@ -1,3 +1,5 @@
-<nav class="container-fluid bg-header pt-3 pb-3 text-white">
-    Tasks / Boards / Spalten
-</nav>
+<div class="bg-header mt-1">
+    <nav class="container bg-header pt-2 pb-2 text-white">
+        Tasks / Boards / Spalten
+    </nav>
+</div>
