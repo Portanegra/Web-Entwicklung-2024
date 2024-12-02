@@ -5,3 +5,11 @@
 .bg-footer {
     background-color: #002060;
 }
+
+.navbar-nav .nav-link {
+    color: white;  /* Standardfarbe weiß */
+}
+
+.navbar-nav .nav-link:hover {
+    color: gray !important;  /* Grau beim Hover */
+}
