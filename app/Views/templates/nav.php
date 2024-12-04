@@ -6,7 +6,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item active me-2">
-                <a class="nav-link text-white" href="#">Tasks <span class="sr-only">(current)</span></a>
+                <a class="nav-link text-white" href="<?= site_url('/') ?>">Tasks <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item me-2">
                 <a class="nav-link text-white" href="#">Boards</a>
