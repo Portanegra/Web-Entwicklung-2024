@@ -1,4 +1,4 @@
-<main class="container mt-3 mb-3 h-100">
+<main class="container mt-3 mb-3">
     <div class="card">
         <div class="card-header">
             Tasks
