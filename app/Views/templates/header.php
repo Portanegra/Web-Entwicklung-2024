@@ -16,6 +16,8 @@
 
 <header class="bg-header">
     <div class="container pt-3 pb-3">
-        <img src="<?= base_url('images/07_-_WE-Logo.svg')?>" alt="Web Entwicklung" width="250px" class="mt-2 mb-2" class="mt-2 mb-2"
+        <a href="<?= site_url('/') ?>">
+            <img src="<?= base_url('images/07_-_WE-Logo.svg')?>" alt="Web Entwicklung" width="250px" class="mt-2 mb-2" class="mt-2 mb-2"
+        </a>
     </div>
 </header>

@@ -12,7 +12,7 @@
                 <a class="nav-link text-white" href="#">Boards</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-white" href="#">Spalten</a>
+                <a class="nav-link text-white" href="<?= site_url('/spalten') ?>">Spalten</a>
             </li>
         </ul>
     </div>
